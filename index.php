@@ -10,10 +10,9 @@ Nella Terra di Mordor, dove l’Ombra cupa scende";
 
 $gandalf = $_GET["censura"];
 
-$sauron = $gandalf;
 $aragorn = "***";
 
-$galadriel = str_replace($sauron, $aragorn, $gollum);
+$galadreil = str_replace($gandalf, $aragorn, $gollum);
 ?>
 
 
